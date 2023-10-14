@@ -1,4 +1,4 @@
-import Exceptions.ParametrosInvalidosException;
+package Desafio1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Exceptions;
+package Desafio1;
 
 public class ParametrosInvalidosException extends Exception {
     @Override
